@@ -1,0 +1,20 @@
+.container{
+	background-color: #e0eafbbd;
+    margin: 82px;
+    padding: 91px 50px;
+}
+.obanner{
+	display: flex;
+	
+}
+.banner{
+	margin-right: 50px;
+    border: 1px solid black;
+	box-shadow: 1px 12px 8px grey;
+	background-color: white;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.text{
+	text-align: center;
+}
